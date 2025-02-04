@@ -34,7 +34,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/web-scraper.git
+git clone https://github.com/NCSci-Tech/web-scraper.git
 cd web-scraper
 
 Create a virtual environment (Optional):
